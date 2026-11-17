@@ -6,6 +6,9 @@
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "scheme": "badbitchbod",
+    "experiments": {
+  "baseUrl": "/Badbitchbod"
+},
     "splash": {"backgroundColor": "#F4F1E8"},
     "ios": {"supportsTablet": true, "bundleIdentifier": "com.badbitchbod.fitness"},
     "android": {"package": "com.badbitchbod.fitness"},
