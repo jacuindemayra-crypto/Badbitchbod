@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "BAD BITCH BOD",
+    "slug": "bad-bitch-bod",
+    "version": "1.2.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "badbitchbod",
+    "splash": {"backgroundColor": "#F4F1E8"},
+    "ios": {"supportsTablet": true, "bundleIdentifier": "com.badbitchbod.fitness"},
+    "android": {"package": "com.badbitchbod.fitness"},
+    "web": {"bundler": "metro", "name": "BAD BITCH BOD", "shortName": "BBB", "themeColor": "#193F2D", "backgroundColor": "#F4F1E8", "display": "standalone", "startUrl": ".", "preferRelatedApplications": false}
+  }
+}
